@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private TextInputEditText txtCEP, txtLogradouro, txtComplemento, txtBairro, txtUF, txtLocalidade;
     private TextInputLayout layCEP;
     private ProgressBar progressBarCEP;
+    TextView TextView1;
+    ImageButton ImageButton1;
 
 
     @Override
@@ -49,6 +51,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         txtLocalidade = findViewById(R.id.txtinpedtLocalidade);
         btnConsultarCEP = findViewById(R.id.btnConsultarCEP);
         progressBarCEP = findViewById(R.id.progressBarCEP);
+        TextView1 = findViewById(R.id.txtinpedtCEP);
+        ImageButton1 = findViewById(R.id.btnLimpar);
+
+        ImageButton1.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+
+                TextView1.setText("");
+            }
+        });
 
         //configurando como invisível
         progressBarCEP.setVisibility(View.GONE);
