@@ -6,6 +6,8 @@ import android.content.Context;
 import android.os.Bundle;
 import android.text.InputType;
 import android.view.View;
+import android.widget.TextView;
+import android.widget.ImageButton;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.ProgressBar;
@@ -36,9 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private ProgressBar progressBarCEP;
     TextView TextView1;
     ImageButton ImageButton1;
-
-    //cep
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
