@@ -3,8 +3,13 @@
 
 O **Consultar CEP** é um aplicativo simples e eficiente que utiliza a API ViaCEP para fornecer informações detalhadas sobre CEPs brasileiros. Seu objetivo principal é permitir que os usuários obtenham rapidamente dados precisos sobre endereços, facilitando a navegação e o entendimento da geografia local. O aplicativo é desenvolvido para dispositivos móveis, para fins de aprendizado.
 
+<p></p>
+
 ###  📷 - Capturas de Tela do App
 
+<br>
+
+</br>
 
 <div align="center">
   
@@ -12,16 +17,17 @@ O **Consultar CEP** é um aplicativo simples e eficiente que utiliza a API ViaCE
 
 <img src="https://i.ibb.co/fM68Ldd/Consultar-Cep2-resized.png" alt="Consultar-Cep2-resized" border="0">
 
-</div> 
+</div>
 
-<h2 align="center"> 📱 - Funcionalidade do Aplicativo </h2> 
+<br>
+</br>
 
-- Consulta de CEP: Os usuários podem inserir um CEP na interface do aplicativo para obter informações sobre o logradouro, bairro, cidade e estado correspondentes.
+ ### 📱 - Funcionalidade do Aplicativo
 
-
-
-
-## ✍🏽 Autores
+ **Consulta de CEP:** Os usuários podem inserir um CEP na interface do aplicativo para obter informações sobre o logradouro, bairro, cidade e estado correspondentes.
+<br>
+</br>
+<h2 align="center">✍🏽 - Autores</h2>
 
 - [Gabrielle Teixeira](https://github.com/Gabstxr)
 - [Thiago dos Santos](https://github.com/thluc)
